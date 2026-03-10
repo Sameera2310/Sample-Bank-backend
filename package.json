@@ -8,7 +8,7 @@
   "main": "main_server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon main_sever.js"
+    "start": "node main_server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
